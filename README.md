@@ -5,7 +5,7 @@ My road to learning python and making side projects. A substitute for doom scrol
 
 - Simple Python scripts and practice problems
 - Mini-projects to reinforce core programming concepts
-- Solutions to exercises from platforms like **Exercism**
+- Solutions to exercises from platforms like **Exercism** and **LeetCode**
 - Code inspired by tutorials and learning resources
 
 Everything here is written with the goal of learning and improving — not perfection!
